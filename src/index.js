@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
-var element = React.createElement('h1', {className: 'greeting'}, 'Hello, World from React! Testing commit change.');
+var element = React.createElement('h1', {className: 'greeting'}, 'Hello, World from React! Testing branch change.');
 ReactDOM.render(element, document.getElementById('root'));
 
 // If you want to start measuring performance in your app, pass a function
